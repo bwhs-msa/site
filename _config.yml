@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             Briar Woods MSA
+email:             azad.riyaad@gmail.com
+description:       Welcome to the official website of the Muslim Student Association of Briar Woods High School.
+author:            Briar Woods MSA
+baseurl:           "/site"
+url:               "http://bwhs-msa.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  BriarWoodsMSA
+# github_username:   
+# facebook_username: 
 
 # Build settings
 markdown:          kramdown
