@@ -21,8 +21,3 @@ background: '/img/bkgd-about.JPG'
 **Outreach** Hamza Aziz
 
 **Teacher Sponsor** Ms. Susan Koujak
-
-13
-​
-14
-<!--Each year the BWHS MSA hosts a fundraising dinner for a charity. We work together during the years to plan the dinner and is usually hosted in the spring. In the past, we have raised money for <a href="http://www.kindnessbeyondborders.com/" target="_blank">Kindness and Care Beyond Borders</a> and the <a href="http://wish.org/" target="_blank">Make A Wish Foundation</a>.-->
