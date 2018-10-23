@@ -13,7 +13,7 @@ background: '/img/bkgd-about.JPG'
 
 <!--Each year the BWHS MSA hosts a fundraising dinner for a charity. We work together during the years to plan the dinner and is usually hosted in the spring. In the past, we have raised money for <a href="http://www.kindnessbeyondborders.com/" target="_blank">Kindness and Care Beyond Borders</a> and the <a href="http://wish.org/" target="_blank">Make A Wish Foundation</a>.-->
   
-# Officers for 2018-2019
+# Officers for the 2018-2019 School Year
 **Presidents** Zainab Faisal *and* Aalia Khan
 
 **Vice President** Safiya Hasan
